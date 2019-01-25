@@ -1,3 +1,5 @@
+## Most of the code presented herein is reused from the Reinforcement Learning Nanodegree tutorials
+
 import numpy as np
 
 import torch
